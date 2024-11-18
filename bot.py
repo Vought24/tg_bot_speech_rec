@@ -9,7 +9,7 @@ import speech_recognition as sr
 
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = '6466176005:AAGP4YGD6rLW-WLtD_aJMeTQN200ApGCvRk'
+TOKEN = ''
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot=bot)
